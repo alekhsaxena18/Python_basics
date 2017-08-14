@@ -1,0 +1,17 @@
+Publisher,Viewer,Values
+Fidelity,Fidelity,100
+Fidelity,Vanguard,50
+Fidelity,Ebay,60
+Fidelity,Capgemini,80
+Vanguard,Fidelity,20
+Vanguard,Vanguard,80
+Vanguard,Ebay,80
+Vanguard,Capgemini,40
+Ebay,Fidelity,12
+Ebay,Vanguard,21
+Ebay,Ebay,19
+Ebay,Capgemini,12
+Capgemini,Fidelity,100
+Capgemini,Vanguard,120
+Capgemini,Ebay,110
+Capgemini,Capgemini,10
